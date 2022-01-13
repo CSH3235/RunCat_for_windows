@@ -1,4 +1,4 @@
-# RunCat_for_windows
+# RunCat_for_windows for RAM
 
 **A cute running cat animation on your windows taskbar.**
 
